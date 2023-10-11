@@ -1,4 +1,6 @@
-### Hello! My name is Sarah
+### Hello! I'm Sarah :)
+
+I'm in my second year of software engineering at Western University. 
 
 <!--
 **sarahhaniya/sarahhaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
